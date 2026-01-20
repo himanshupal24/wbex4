@@ -1,5 +1,5 @@
 export default function sitemap() {
-    const baseUrl = 'https://webx4.com'; // Replace with actual domain
+    const baseUrl = 'https://webx4.vercel.app'; // Replace with actual domain
 
     return [
         {
